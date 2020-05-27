@@ -17,14 +17,14 @@ print "\033[32;1m  |   _   |    \033[37;1mWelcome To My "
 print "\033[32;1m _(_______)_   \033[37;1mProject :)    "
 print "\033[32;1m(    \ /    )                          "
 print "\033[32;1m| (   |   ) |                          "
-print "\033[32;1m| |   .   | |   \033[31;1mMr.yM        "
+print "\033[32;1m| |   .   | |   \033[31;1mCyberLimit        "
 print "\033[32;1m| |   .   | |                          "
 print "\033[32;1m|_(_______)_|                          "
 print
 print ("\033[32;1mMasukan Username dan Password !")
-print ("\033[36;1mKalo Gak Tau liat di Readme")
-username = 'Maulanarym'      
-password = 'subscribe'
+print ("\033[36;1mKalo Gak Tau Subscribe dulu Chanel CyberLimit dan wa ke 089614686780")
+username = 'wisnu'      
+password = 'cyberlimit'
 
 def restart():
 	ngulang = sys.executable
